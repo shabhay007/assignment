@@ -1,0 +1,427 @@
+.parentcontainer{
+    /* border-style: solid; */
+    background-color: black;
+    display: flex;
+    width: 80%;
+    color: white;
+    padding: 20px 30px;
+    margin: auto;
+}
+
+.container1{
+    /* border-style: solid; */
+    width: 25%;
+    height: 100%;
+}
+
+.container2{
+    width: 33%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.container3{
+    width: 42%;
+}
+.card1{
+    border-style: solid;
+    height: 150px;
+    background-color: #272626;
+    border-radius: 20px;
+    border: 3px;
+    margin-bottom: 10px;
+}
+
+
+.contcard2{
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: space-between;
+}
+.contcard1{
+    margin-bottom: 10px;
+    /* border-style: solid; */
+    display: flex;
+    /* margin-top:15px; */
+    border-radius: 20px;
+    background-color: #272626;
+}
+
+.slots{
+    /* border-style: solid; */
+    border-radius: 20px;
+    background-color: #272626;
+    padding-bottom: 15px;
+}
+
+.weiuyasjasgjk{
+    /* border-style: solid; */
+    padding-right: 25px;
+    padding-top: 30px;
+
+}
+
+.dollar{
+    /* border-style: solid; */
+
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+.project{
+    /* border-style: solid; */
+    
+    padding: 0 10px;
+}
+
+
+.sendbtn{
+    background-color: rgb(181, 63, 82);
+    float: right;
+    margin-right: 10px;
+    border-radius: 12px;
+    padding: 6px 20px; 
+    border: none;
+    color: white;
+}
+
+
+
+
+
+
+
+
+.date{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    row-gap: 10px;
+    padding-bottom: 10px;
+}
+.june{
+    /* border-style: solid; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 26%;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+
+
+.weiabhay{
+    width: 70%;
+    padding-top: 25px;
+}
+.contmycard1{
+    /* border-style: solid; */
+    background-color: #272626;
+    border-radius: 20px;
+    display: flex;
+    /* margin-top: 15px; */
+}
+
+.contmycard3{
+    /* border-style: solid; */
+    border-radius: 20px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.weiwfsjfhiuwhef{
+    /* border-style: solid; */
+    margin-right: 10px;
+}
+.second{
+    /* border-style: solid; */
+    background-color: #272626;
+    border-radius: 20px;
+    padding: 20px 0 20px 15px;
+    width: 45%;
+}
+.first{
+    /* border-style: solid; */
+    background-color: #272626;
+    border-radius: 20px;
+    padding: 20px 0 20px 15px;
+    width: 45%;
+}
+
+.hira{
+    /* border-style: solid; */
+
+    /* margin-top: 15px; */
+    padding-top: 10px;
+    margin-left: 30px;
+}
+.uxui{
+    /* border-style: solid; */
+
+    margin-left: 30px;
+}
+
+.circularpic{
+    margin: 7px 0 0 10px;
+}
+.weouriwerwye{
+    font-weight: 600;
+}
+
+.dashboard{
+    /* border-style: solid; */
+
+    display: flex;
+    height: 50px;
+    padding-left: 40px;
+    align-items: center;
+    font-weight: 600;
+}
+.email{
+    /* border-style: solid; */
+
+    display: flex;
+    height: 45px;
+    width: 100px;
+    margin-left: 43px;
+    align-items: center;
+}
+
+.jkjksakk{
+    padding-top: 10px;
+    width: 40%;
+}
+
+.weqiuwoquw{
+    width: 40px;
+    height: 37px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* text-align: center; */
+    border-radius: 50%;
+    /* vertical-align: middle; */
+    border-style: solid;
+    margin: auto;
+    margin-top: 14%;
+    background-color: black;
+    border: none;
+    padding-bottom: 4px;
+}
+.woieuriowe{
+    width: 70%;
+    margin-left: 20%;
+    padding-top: 10px;
+}
+.weuroiwe{
+    border-radius: 13px 0 13px 13px;
+    border: 5px;
+    height: 25px;
+    width: 70%;
+    float: right;
+    margin-top: 10px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: black;
+}
+
+.ksjdfkfei{
+    padding-top: 6px;
+}
+
+.kdfkksd{
+    padding-left: 10px;
+}
+
+.card3{
+    background-color: blue;
+    border-radius: 20px;
+    padding-bottom: 50px;
+}
+
+.wiueyiksdhjks{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    border-radius: 5px;
+    /* border-style: solid; */
+    height: 5px;
+    width: 120px;
+}
+.wieuirowiowie{
+    height: 5px;
+    width: 75%;
+    background-color: blue;
+}
+
+.travel{
+    /* border-style: solid; */
+    padding: 20px 0 0 15px;
+    background-color: #272626;
+    border-radius: 20px;
+    width: 44%;
+}
+.hotel{
+    /* border-style: solid; */
+    padding: 20px 0 0 15px;
+    background-color: #272626;
+    border-radius: 20px;
+    width: 44%;
+}
+.tour{
+    background-color: blue;
+    border: none;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.tourbtn{
+    border-radius: 10px;
+    border: none;
+    padding: 3px 10px;
+    margin: 0 5px 10px 0;
+    background-color: black;
+    color: white;
+}
+
+.contmycard2{
+    /* border-style: solid; */
+    height: 220px;
+    margin-top: 10px;
+    border-radius: 20px;
+    background-color: #272626;
+    padding: 15px 0 0 15px;
+}
+
+.ytksdifppppooio{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    /* border-style: solid; */
+}
+
+.weiuwenvsnsgs{
+    width: 70%;
+    /* border-style: solid; */
+}
+
+.card2{
+    border-style: solid;
+    border-radius: 20px;
+    border: 3px;
+    background-color: #272626;
+    margin-bottom: 10px;
+}
+.lessthan{
+    /* rotate: 270deg; */
+    /* border-style: solid; */
+    font-size: 24px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+
+.lessdfjsjfl{
+    rotate: 270deg;
+}
+
+.lastbar{
+    /* border-style: solid; */
+    background-color: white;
+    height: 7px;
+    margin-right: 10px;
+    border-radius: 7px;
+}
+.lstb{
+    height: 7px;
+    width: 75%;
+    background-color: blue;
+    border-radius: 7px;
+}
+
+
+
+
+
+/*  for switch box */
+
+.switch {
+    position: relative;
+    display: inline-block;
+    margin-left: 10px;
+    width: 50px;
+    height: 8px;
+  }
+  
+  .switch input { 
+    opacity: 0;
+    width: 10px;
+    height: 0;
+  }
+  
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 20px;
+    width: 20px;
+    left: 4px;
+    bottom: -5px;
+    background-color: blue;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  input:checked + .slider {
+    background-color: black;
+  }
+  
+  input:focus + .slider {
+    box-shadow: 0 0 1px #2196F3;
+  }
+  
+  input:checked + .slider:before {
+    transform: translateX(26px);
+  }
+  
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 34px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  }
+
+  .centbtn{
+    /* border-style: solid; */
+
+    width: 40%;
+    margin: 10px 40px;
+    display: flex;
+    justify-content: center;
+  }
+  .percentbtn{
+    font-weight: 600;
+    background-color: rgb(181, 63, 82);
+    height: 50px;
+    width: 60px;
+    border-radius: 50%;
+    border: none;
+    color: white;
+  }
